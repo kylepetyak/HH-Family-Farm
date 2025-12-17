@@ -1,5 +1,4 @@
 import { Metadata } from 'next';
-import Link from 'next/link';
 import { Container, SectionHeading, Button, ImagePlaceholder } from '@/components/ui';
 import { NewsletterForm } from '@/components/forms';
 

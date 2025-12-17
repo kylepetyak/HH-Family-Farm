@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { Container, SectionHeading } from '@/components/ui';
+import { Container } from '@/components/ui';
 import { BlogGrid } from '@/components/blog';
 import { NewsletterForm } from '@/components/forms';
 import { getAllPosts } from '@/lib/mdx';
